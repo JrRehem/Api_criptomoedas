@@ -19,9 +19,8 @@ URL: https://www.bootstrapcdn.com/
 
 <h2> Extensão:</h2>
  <ul>
+  <li>Adicionar a extensão para o funcionamento dos dados.</li>
   <li>Moesif Orign & CORS Changer no navegador Google Chrome.</li>
-  <li>Realizar a instração da extensão no browser Google Chrome.</li>
-  <li>Sem a extensão - online no browser, não carrega os dados.</li>
  </ul>
 
 URL: https://chrome.google.com/webstore/detail/moesif-orign-cors-changer/digfbfaphojjndkpccljibejjbppifbc/related
