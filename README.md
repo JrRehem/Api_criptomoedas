@@ -15,9 +15,14 @@ URL: https://pro.coinmarketcap.com/
 
 URL: https://www.bootstrapcdn.com/
 
-### Extensão:
-- Moesif Orign & CORS Changer no navegador Google Chrome.
-- Realizar a instração da extensão no browser Google Chrome.
-- Sem a extensão - online no browser, não carrega os dados.
+<h2> Extensão:</h2>
+ <ul>
+  <li>Moesif Orign & CORS Changer no navegador Google Chrome.</li>
+  <li>Realizar a instração da extensão no browser Google Chrome.</li>
+  <li>Sem a extensão - online no browser, não carrega os dados.</li>
+ </ul>
 
 URL: https://chrome.google.com/webstore/detail/moesif-orign-cors-changer/digfbfaphojjndkpccljibejjbppifbc/related
+
+
+- Desafio prático realizado na plataforma [Digital Innovation One](https://web.digitalinnovation.one/home "Digital Innovation One"): [Requisitando dados de uma API de Criptomoedas](https://web.digitalinnovation.one/lab/requisitando-dados-de-uma-api-de-criptomoedas/learning/0b830ec3-30f5-4b6b-9e78-e4bb6ec50871).
