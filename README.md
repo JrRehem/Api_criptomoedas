@@ -2,7 +2,9 @@
 
 
 <h2> API: </h2>
-- Realizar o cadastro ou login para resgatar sua key.
+ <ul>
+  <li>Realizar o cadastro ou login para resgatar sua key.</li>
+ </ul>
 
 URL: https://pro.coinmarketcap.com/
 
