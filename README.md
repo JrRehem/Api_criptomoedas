@@ -26,5 +26,4 @@ URL: https://www.bootstrapcdn.com/
 
 URL: https://chrome.google.com/webstore/detail/moesif-orign-cors-changer/digfbfaphojjndkpccljibejjbppifbc/related
 
-
 - Desafio prático realizado na plataforma [Digital Innovation One](https://web.digitalinnovation.one/home "Digital Innovation One"): [Requisitando dados de uma API de Criptomoedas](https://web.digitalinnovation.one/lab/requisitando-dados-de-uma-api-de-criptomoedas/learning/0b830ec3-30f5-4b6b-9e78-e4bb6ec50871).
