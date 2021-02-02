@@ -26,6 +26,9 @@ URL: https://www.bootstrapcdn.com/
 
 URL: https://chrome.google.com/webstore/detail/moesif-orign-cors-changer/digfbfaphojjndkpccljibejjbppifbc/related
 
-<h3>Desafio: atribuir na interface first_historical_data das 10 primeiras moedas: :heavy_check_mark:
+<h3>Desafio:</h3>
+
+atribuir na interface first_historical_data das 10 primeiras moedas: :heavy_check_mark:
+
 
 - Desafio prático realizado na plataforma [Digital Innovation One](https://web.digitalinnovation.one/home "Digital Innovation One"): [Requisitando dados de uma API de Criptomoedas](https://web.digitalinnovation.one/lab/requisitando-dados-de-uma-api-de-criptomoedas/learning/0b830ec3-30f5-4b6b-9e78-e4bb6ec50871).
